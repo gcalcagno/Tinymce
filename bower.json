@@ -10,12 +10,5 @@
 		"javascript",
 		"html"
 	],
-	"homepage": "http://www.tinymce.com",
-	"ignore": [
-		"readme.md",
-		"composer.json",
-		"package.json",
-		".npmignore",
-		"changelog.txt"
-	]
+	"homepage": "http://www.tinymce.com"
 }
