@@ -10,5 +10,8 @@
 		"javascript",
 		"html"
 	],
-	"homepage": "http://www.tinymce.com"
+	"homepage": "http://www.tinymce.com",
+	  "ignore": [
+	    "**/.*"
+	  ]
 }
